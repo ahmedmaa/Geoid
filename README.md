@@ -1,5 +1,5 @@
 # Geoid Software
-These codes are used for the determination of high-frequency geoid model from the terrestrial gravity data. 
+This software is used for the determination of high-frequency geoid model from the terrestrial gravity data. 
 With GEOWARE you can use the following kernels:\
  1- Original Stokes\
  2- Wong and Gore (WG)\
