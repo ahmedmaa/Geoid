@@ -11,5 +11,5 @@ For the kernels (1-3) you can apply the remove computer restore (RCR) method as 
 This software is guided by a built-in example and a (3x3) testing gravity grid you. The prompt of the code will ask you to enter the file names and parameters of the example.\
 The modification parameters are provided in prn files for VK and LS methods.\
 \
-Written by: Ahmed Abdalla,Center for Geoinformatics, Department of Civil and Environmental Engineering, Louisiana State University, Baton Rouge, 70803 LA, USA\
+Written by: Ahmed Abdalla,Center for Geoinformatics, Louisiana State University, Baton Rouge, 70803 LA, USA\
 You are welcome to contact me at : aabdalla1@lsu.edu
