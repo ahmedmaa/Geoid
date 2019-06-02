@@ -1,6 +1,6 @@
 # Geoid Software
 This software is used for the determination of high-frequency geoid model from the terrestrial gravity data. 
-With this software you can use the following Stokes kernels:\
+With this software you can use the following kernels:\
  1- Original Stokes\
  2- Wong and Gore (WG)\
  3- VK (Vanicek-Kleusberg)\
